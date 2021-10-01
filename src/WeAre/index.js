@@ -7,12 +7,12 @@ export default function WeAre() {
       <div>
         <p>
           Bzzz... <br/>
-          Qu'est ce que BeeBot ?
+          Qu'est-ce que BeeBot ?
         </p>
         <p>
-        C'est un bot sympatique permettant de sécuriser les échanges sur les boîtes de messagerie instantané.
-        <br/>Sa facilité d'utilisation est déconcertante ! Envoyé simplement une adresse mail, un Url ou un fichier, et notre petite guèpe l'analysera pour vous.
-        <br/><br/> Un échange malveillant et BeeBot ne manquera pas de vous faire une piqure de rappel. 
+        C'est un bot sympathique permettant de sécuriser les échanges sur les boîtes de messagerie instantanée.
+        <br/>Sa facilité d'utilisation est déconcertante ! Envoyez simplement une adresse mail, une URL ou un fichier, et notre petite abeille l'analysera pour vous.
+        <br/><br/> Un partage malveillant et BeeBot ne manquera pas de vous faire une piqûre de rappel. 
         <br/>BeeBot votre meilleur ami pour butiner en paix !
         </p>
       </div>
